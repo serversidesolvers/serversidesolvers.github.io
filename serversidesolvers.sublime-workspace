@@ -427,14 +427,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 23616,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Engagor Staging",
 	"command_palette":
@@ -480,6 +472,9 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/serversidesolvers.github.io/index.html",
+		"/Applications/MAMP/htdocs/serversidesolvers.github.io/CNAME",
+		"/Applications/MAMP/htdocs/serversidesolvers.github.io/CNAME.md",
 		"/Applications/MAMP/htdocs/tadabon/templates/public/public.featuredproducts.html",
 		"/Applications/MAMP/htdocs/tadabon/templates/public/public.featuredshopsslider.html",
 		"/Applications/MAMP/htdocs/tadabon/controllers/public/fileController.php",
@@ -604,14 +599,11 @@
 		"/Applications/MAMP/htdocs/engagor/api/classes/locales/to_to.php",
 		"/Applications/MAMP/htdocs/tadabon/blog/wp-admin/includes/dashboard.php",
 		"/Applications/MAMP/htdocs/tadabon/controllers/shopmanager/settingsController.php",
-		"/Applications/MAMP/htdocs/tadabon/controllers/public/storefrontController.php",
-		"/Applications/MAMP/htdocs/tadabon/blog/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_BooksService.php",
-		"/Applications/MAMP/htdocs/tadabon/blog/wp-includes/js/jquery/jquery.table-hotkeys.js",
-		"/Applications/MAMP/htdocs/tadabon/blog/wp-content/plugins/google-analyticator/google-api-php-client/src/contrib/Google_WebfontsService.php"
+		"/Applications/MAMP/htdocs/tadabon/controllers/public/storefrontController.php"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -752,6 +744,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Start Bootstrap",
 			"wrapper",
 			"div",
 			"left",
@@ -878,8 +871,7 @@
 			"inline",
 			"cadeaubonvoor",
 			"cadeaubonlink",
-			"inline",
-			"filter.status"
+			"inline"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -902,39 +894,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 23616,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								779,
-								779
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -988,6 +949,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"cname",
+				"CNAME"
+			],
 			[
 				"index.",
 				"index.html"
@@ -1495,10 +1460,6 @@
 			[
 				"invoiceco",
 				"controllers/admin/invoicesController.php"
-			],
-			[
-				"class.base",
-				"classes/framework/class.basecontroller.php"
 			]
 		],
 		"width": 0.0
