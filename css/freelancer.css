@@ -77,6 +77,8 @@ header {
     text-align: center;
     color: #fff;
     background: #18bc9c;
+    background-image:url(/img/sss.jpg);
+    background-size:cover;
 }
 
 header .container {
@@ -87,6 +89,10 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+}
+
+header .intro-text {
+    margin-top:350px;
 }
 
 header .intro-text .name {
